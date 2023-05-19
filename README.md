@@ -19,7 +19,7 @@ Certifique-se de ter todas as bibliotecas necessárias instaladas.
 Execute o código em um ambiente Python.
 O programa exibirá uma lista das capitais do Brasil.
 
-##Limitações
+## Limitações
 A disponibilidade dos dados de temperatura depende da resposta da API do OpenWeatherMap. Se a API estiver indisponível ou retornar um erro, os dados podem não ser obtidos corretamente.
 A precisão da temperatura depende das informações fornecidas pela API e pode variar.
 Este projeto é apenas uma demonstração e pode ser expandido ou adaptado para requisitos específicos.
