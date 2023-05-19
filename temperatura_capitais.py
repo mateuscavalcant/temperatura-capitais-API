@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 
-api_key = "da42d40916f94c88f776ebd5c21b1f39"
+api_key = "API_KEY"
 base_url = "http://api.openweathermap.org/data/2.5/weather?q="
 
 # Obter a data e hora atual
